@@ -36,5 +36,6 @@ public class TextWriter : MonoBehaviour
         uitext.DrawText("黒髪ちゃそ","ああああああああああああああああああああああああああああああああああああああああああ");
         yield return StartCoroutine("Skip");
 
+        Destroy(this.gameObject);
     }
 }

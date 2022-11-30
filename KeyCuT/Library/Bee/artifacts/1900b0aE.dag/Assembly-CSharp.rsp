@@ -381,6 +381,7 @@
 "Assets/Scenes/ScreenTransition.cs"
 "Assets/TextWriter.cs"
 "Assets/UIText.cs"
+"Assets/Wins1.cs"
 -langversion:9.0
 
 /deterministic
